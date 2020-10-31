@@ -10,7 +10,7 @@ This is the boilerplate for creating an API server in AdonisJs, it comes pre-con
 
 ## Setup
 
-lone the repo and then run `npm install`.
+Clone the repo and then run `npm install`.
 
 ### Migrations
 
